@@ -12,17 +12,17 @@ TagManager:
   - 
   - Water
   - UI
-  - WhatIsPlayer
+  - 
+  - 
+  - Grabbable
+  - Hands
+  - Teleporter
+  - NoHandCollide
+  - 
   - WhatIsEnemy
+  - WhatIsPlayer
   - Ground
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Walls
   - 
   - 
   - 
